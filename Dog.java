@@ -2,7 +2,7 @@
 public class Cat  {
 	private String name;
 	private Sting leg;
-	private String Marry;
+	private String Frank;
 	
 	
 
