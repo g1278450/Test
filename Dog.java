@@ -4,6 +4,7 @@ public class Cat  {
 	private Sting leg;
 	private String Frank;
 	private String Marry;
+	private String lala;
 
 	
 	
