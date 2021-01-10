@@ -3,6 +3,7 @@ public class Cat  {
 	private String name;
 	private Sting leg;
 	private String Frank;
+	private String Marry;
 
 	
 	
