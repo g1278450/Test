@@ -1,5 +1,9 @@
 
 public class Cat  {
+	
+	xxxxx 
+	xxxxx 
+	
 	private String name;
 	
 	public Cat(String name) {
